@@ -1,5 +1,5 @@
-# CS 429/529 Project 12
-## Topic Categorization
+# CS 429/529 Project 3
+## Audio Classification
 
 ## Details
 
