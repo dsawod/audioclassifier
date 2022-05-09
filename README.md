@@ -16,7 +16,7 @@ This code is written in Python and is platform independent.
 
 ## Jupyter Notebook 
 
-We have created a jupyter notebook to display our work.  
+We have created a jupyter notebook called calssifier.ipynb to display our work.  
 This notebook contains two main sections:
   - Part 1: Data Processing and Representation
       - 1.1 Representing data as a time series
