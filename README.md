@@ -10,7 +10,7 @@ Team Members:
 - Todd Sipe
 
 Details for the project are found here: 
-[Kaggle](https://www.kaggle.com/competitions/cs529-project-3-audio)
+[Kaggle](https://www.kaggle.com/competitions/cs529-project-3-audio)  
 This code is written in Python and is platform independent.
 
 
