@@ -23,8 +23,10 @@ This notebook contains two main sections:
       - 1.2 Representing data as images (spectrograms)
       - 1.3 Display MFCC Features
         - To display the MFCC features uncomment and run _displayMFCC("train",duration_to_read)
+        - The training and test files are too large to upload for the git.
       - 1.4 Dimensionality Reduction Using PCA
         - To display the MFCC PCA uncomment and run _displayMFCCPCA("train", duration_to_read)
+        - The training and test files are too large to upload for the git.
   - Part 2: Classification
       - 2.1 SVM
       - 2.2 Neural Network
